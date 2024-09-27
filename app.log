@@ -1,0 +1,88 @@
+2024-08-10 15:36:03,132 - INFO - Attempting to add user 205 to blacklist with reason: Duzenli borc odememe
+2024-08-10 15:41:50,405 - INFO - Attempting to add user 1 to blacklist with reason: odeme yapmamis kullanici
+2024-08-10 15:48:57,165 - INFO - Attempting to add user 1 to blacklist with reason: True
+2024-08-10 15:51:57,916 - INFO - Checking if user 1 is in blacklist
+2024-08-10 16:29:42,984 - INFO - Attempting to add user 3 to blacklist with reason: gecikmeli �deme
+2024-08-10 16:29:43,211 - INFO - User 3 added to blacklist successfully
+2024-08-10 16:37:06,913 - INFO - Attempting to add user 5 to blacklist with reason: �deme sorunu
+2024-08-10 16:37:06,929 - INFO - User 5 added to blacklist successfully
+2024-08-10 16:39:24,559 - INFO - Attempting to add user 2 to blacklist with reason: �deme sorunu
+2024-08-10 16:39:24,565 - INFO - User 2 added to blacklist successfully
+2024-08-10 16:47:07,527 - INFO - Attempting to remove user 3 from blacklist
+2024-08-10 16:47:07,537 - INFO - User 3 removed from blacklist successfully
+2024-08-10 16:48:04,964 - INFO - Checking if user 5 is in blacklist
+2024-08-10 16:48:04,966 - INFO - User 5 found in blacklistS
+2024-08-12 12:01:09,323 - INFO - Attempting to add user 7 to blacklist with reason: geciken �deme
+2024-08-12 12:01:09,459 - INFO - User 7 added to blacklist successfully
+2024-08-12 12:02:24,438 - INFO - Attempting to remove user 5 from blacklist
+2024-08-12 12:02:24,454 - INFO - User 5 removed from blacklist successfully
+2024-08-12 12:02:31,210 - INFO - Attempting to remove user 2 from blacklist
+2024-08-12 12:02:31,226 - INFO - User 2 removed from blacklist successfully
+2024-08-12 12:02:40,887 - INFO - Attempting to remove user 7 from blacklist
+2024-08-12 12:02:40,895 - INFO - User 7 removed from blacklist successfully
+2024-08-12 12:03:36,556 - INFO - Attempting to add user 2 to blacklist with reason: geciken �deme
+2024-08-12 12:03:36,578 - INFO - User 2 added to blacklist successfully
+2024-08-12 12:08:26,868 - INFO - Attempting to add user 3 to blacklist with reason: geciken �deme
+2024-08-12 12:08:26,881 - INFO - User 3 added to blacklist successfully
+2024-08-12 12:08:43,569 - INFO - Attempting to add user 11 to blacklist with reason: �deme sorunu
+2024-08-12 12:08:43,577 - INFO - User 11 added to blacklist successfully
+2024-08-12 12:10:50,939 - INFO - Attempting to add user 17 to blacklist with reason: yap�lmam�� �deme 
+2024-08-12 12:10:50,947 - INFO - User 17 added to blacklist successfully
+2024-08-15 16:14:30,766 - INFO - Attempting to add user 17 to blacklist with reason: geciken �deme 
+2024-08-15 16:14:30,878 - INFO - User 17 added to blacklist successfully
+2024-08-16 15:23:56,523 - INFO - Attempting to add user 2 to blacklist with reason: �deme 
+2024-08-16 15:23:56,705 - WARNING - User 2 has a status of False and cannot be added to the blacklist
+2024-08-16 15:25:13,324 - INFO - Attempting to add user 9 to blacklist with reason: �deme 
+2024-08-16 15:25:13,352 - INFO - User 9 added to blacklist successfully
+2024-08-16 15:26:18,378 - INFO - Attempting to add user 4 to blacklist with reason: �deme yap�lmamas�
+2024-08-16 15:26:18,378 - WARNING - User 4 has a status of False and cannot be added to the blacklist
+2024-08-16 16:57:03,648 - INFO - Attempting to add user 34 to blacklist with reason: ...
+2024-08-16 16:57:03,799 - WARNING - User 34 has a status of False and cannot be added to the blacklist
+2024-08-16 16:57:18,838 - INFO - Attempting to add user 35 to blacklist with reason: ...
+2024-08-16 16:57:18,896 - INFO - User 35 added to blacklist successfully
+2024-08-16 16:58:33,166 - INFO - Attempting to remove user 17 from blacklist
+2024-08-16 16:58:33,190 - INFO - User 17 removed from blacklist successfully
+2024-08-16 16:58:46,361 - INFO - Attempting to remove user 2 from blacklist
+2024-08-16 16:58:46,367 - INFO - User 2 removed from blacklist successfully
+2024-08-21 15:06:08,275 - INFO - Checking if user 17 is in blacklist
+2024-08-21 15:06:08,280 - INFO - User 17 found in blacklist
+2024-08-21 15:06:21,198 - INFO - Checking if user 67 is in blacklist
+2024-08-21 15:06:21,200 - WARNING - User 67 not found in blacklist
+2024-08-22 12:48:46,174 - INFO - Attempting to add user 37 to blacklist with reason: geciken �deme
+2024-08-22 12:48:46,190 - INFO - User 37 added to blacklist successfully
+2024-08-22 12:49:44,011 - INFO - Attempting to add user 36 to blacklist with reason: geciken �deme
+2024-08-22 12:49:44,011 - WARNING - User 36 has a status of False and cannot be added to the blacklist
+2024-08-22 12:50:58,917 - INFO - Attempting to remove user 17 from blacklist
+2024-08-22 12:50:58,935 - INFO - User 17 removed from blacklist successfully
+2024-08-22 12:51:46,846 - INFO - Checking if user 37 is in blacklist
+2024-08-22 12:51:46,846 - INFO - User 37 found in blacklist
+2024-08-22 12:52:02,034 - INFO - Checking if user 56 is in blacklist
+2024-08-22 12:52:02,034 - WARNING - User 56 not found in blacklist
+2024-08-22 12:52:44,450 - INFO - Attempting to add user 45 to blacklist with reason: �deme sorunu
+2024-08-22 12:52:44,473 - INFO - User 45 added to blacklist successfully
+2024-08-22 12:52:52,662 - INFO - Attempting to add user 57 to blacklist with reason: �deme sorunu
+2024-08-22 12:52:52,662 - WARNING - User 57 has a status of False and cannot be added to the blacklist
+2024-08-22 12:53:10,278 - INFO - Attempting to add user 89 to blacklist with reason: geciken �deme
+2024-08-22 12:53:10,286 - WARNING - User 89 has a status of False and cannot be added to the blacklist
+2024-08-22 12:54:32,440 - INFO - Attempting to add user 89 to blacklist with reason: geciken �deme
+2024-08-22 12:54:32,440 - WARNING - User 89 has a status of False and cannot be added to the blacklist
+2024-08-22 12:55:24,518 - INFO - Attempting to add user 49 to blacklist with reason: geciken �deme
+2024-08-22 12:55:24,543 - INFO - User 49 added to blacklist successfully
+2024-08-22 12:55:42,156 - INFO - Attempting to add user 88 to blacklist with reason: �deme sorunu
+2024-08-22 12:55:42,177 - INFO - User 88 added to blacklist successfully
+2024-08-22 12:55:56,540 - INFO - Attempting to add user 100 to blacklist with reason: �deme sorunu
+2024-08-22 12:55:56,564 - INFO - User 100 added to blacklist successfully
+2024-08-22 12:56:16,429 - INFO - Attempting to add user 124 to blacklist with reason: geciken �deme
+2024-08-22 12:56:16,429 - WARNING - User 124 has a status of False and cannot be added to the blacklist
+2024-08-30 14:58:01,708 - INFO - Attempting to add user 278 to blacklist with reason: geciken �deme
+2024-08-30 14:58:01,792 - WARNING - User 278 has a status of False and cannot be added to the blacklist
+2024-08-30 15:00:45,070 - INFO - Attempting to add user 277 to blacklist with reason: geciken �deme
+2024-08-30 15:00:45,098 - INFO - User 277 added to blacklist successfully
+2024-08-30 15:05:11,706 - INFO - Attempting to remove user 340 from blacklist
+2024-08-30 15:05:11,709 - WARNING - Blacklist entry for user 340 not found
+2024-08-30 15:06:30,417 - INFO - Attempting to remove user 277 from blacklist
+2024-08-30 15:06:30,422 - INFO - User 277 removed from blacklist successfully
+2024-08-30 15:08:51,987 - INFO - Checking if user 17 is in blacklist
+2024-08-30 15:08:51,989 - WARNING - User 17 not found in blacklist
+2024-08-30 15:09:26,773 - INFO - Checking if user 100 is in blacklist
+2024-08-30 15:09:26,777 - INFO - User 100 found in blacklist
